@@ -20,6 +20,14 @@ Shadcn Landing Page 是一个基于 Next.js 16、React 19、Tailwind CSS 4、sha
 > [!NOTE]
 > 这是前端起始模板，不是已托管的产品或后端服务。人物、客户评价、联系方式和价格均为明确标注的虚构演示内容。网站没有表单后端；提交时会把输入内容交给你配置的邮件应用生成草稿，后续处理受该应用的隐私规则约束。
 
+## 真实运行预览
+
+<p align="center">
+  <img src="./assets/readme/landing-page-preview.png" width="100%" alt="以默认中文语言运行的 Shadcn Landing Page 生产构建页面">
+</p>
+
+截图来自真实的 `1440 × 1024` 生产构建。通过导航栏中的语言切换器，可以查看同一页面的英文版本。
+
 ## 为什么选择它
 
 | 能力 | 你可以获得什么 |

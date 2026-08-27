@@ -20,6 +20,14 @@ Shadcn Landing Page is a customizable marketing-site starter built with Next.js 
 > [!NOTE]
 > This repository is a frontend starter, not a hosted product or backend service. People, testimonials, contact details, and pricing are explicitly fictional demo content. The site has no form backend; submitting hands the entered values to your configured mail app as a draft, where that app's privacy behavior applies.
 
+## Live preview
+
+<p align="center">
+  <img src="./assets/readme/landing-page-preview.png" width="100%" alt="Shadcn Landing Page production build running in the default Chinese locale">
+</p>
+
+Captured from a real production build at `1440 × 1024`. Use the language switcher in the header to render the same page in English.
+
 ## Why use it
 
 | Capability | What it gives you |

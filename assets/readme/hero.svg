@@ -48,16 +48,16 @@
 
     <g transform="translate(34 94)">
       <rect width="700" height="330" rx="18" fill="#171719" stroke="#ffffff" stroke-opacity=".1"/>
-      <rect x="38" y="42" width="150" height="30" rx="15" fill="#2a1710" stroke="#ff6a2a" stroke-opacity=".42"/>
+      <rect x="38" y="42" width="198" height="30" rx="15" fill="#2a1710" stroke="#ff6a2a" stroke-opacity=".42"/>
       <circle cx="56" cy="57" r="4" fill="#ff6a2a"/>
-      <text x="69" y="62" fill="#ff9b52" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600">BILINGUAL BY DEFAULT</text>
+      <text x="72" y="62" fill="#ff9b52" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600">BILINGUAL BY DEFAULT</text>
       <text x="38" y="132" fill="#fafafa" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="760">Ship a clearer story.</text>
       <text x="38" y="170" fill="#a3a3a3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Accessible sections, persistent themes,</text>
       <text x="38" y="197" fill="#a3a3a3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">and server-rendered Chinese &amp; English.</text>
-      <rect x="38" y="232" width="144" height="44" rx="9" fill="url(#orange)"/>
-      <text x="65" y="260" fill="#241008" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="700">START BUILDING</text>
-      <rect x="194" y="232" width="132" height="44" rx="9" fill="#111113" stroke="#ffffff" stroke-opacity=".18"/>
-      <text x="220" y="260" fill="#e5e5e5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">VIEW SECTIONS</text>
+      <rect x="38" y="232" width="168" height="44" rx="9" fill="url(#orange)"/>
+      <text x="122" y="260" text-anchor="middle" fill="#241008" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="700">START BUILDING</text>
+      <rect x="220" y="232" width="156" height="44" rx="9" fill="#111113" stroke="#ffffff" stroke-opacity=".18"/>
+      <text x="298" y="260" text-anchor="middle" fill="#e5e5e5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">VIEW SECTIONS</text>
       <g transform="translate(538 34)">
         <rect width="124" height="124" rx="62" fill="#21140f" stroke="#ff6a2a" stroke-opacity=".28"/>
         <rect x="22" y="26" width="80" height="72" rx="12" fill="#2a1710" stroke="#ff6a2a" stroke-opacity=".45"/>
