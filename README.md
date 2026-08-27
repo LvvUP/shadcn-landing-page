@@ -22,11 +22,30 @@ Shadcn Landing Page is a customizable marketing-site starter built with Next.js 
 
 ## Live preview
 
-<p align="center">
-  <img src="./assets/readme/landing-page-preview.png" width="100%" alt="Shadcn Landing Page production build running in the default Chinese locale">
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/readme/landing-page-preview.png" width="100%" alt="Chinese light-theme desktop view of the running Shadcn Landing Page">
+      <br><sub>中文 · Light · Desktop</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/readme/landing-page-desktop-en-dark.png" width="100%" alt="English dark-theme desktop view of the running Shadcn Landing Page">
+      <br><sub>English · Dark · Desktop</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/readme/landing-page-mobile-zh-light.png" width="56%" alt="Chinese light-theme mobile view of the running Shadcn Landing Page">
+      <br><sub>中文 · Light · Mobile</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/readme/landing-page-mobile-en-dark.png" width="56%" alt="English dark-theme mobile view of the running Shadcn Landing Page">
+      <br><sub>English · Dark · Mobile</sub>
+    </td>
+  </tr>
+</table>
 
-Captured from a real production build at `1440 × 1024`. Use the language switcher in the header to render the same page in English.
+All four images were captured from the real production build: `1440 × 1024` on desktop and `390 × 844` on mobile.
 
 ## Why use it
 

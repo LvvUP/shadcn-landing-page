@@ -22,11 +22,30 @@ Shadcn Landing Page 是一个基于 Next.js 16、React 19、Tailwind CSS 4、sha
 
 ## 真实运行预览
 
-<p align="center">
-  <img src="./assets/readme/landing-page-preview.png" width="100%" alt="以默认中文语言运行的 Shadcn Landing Page 生产构建页面">
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/readme/landing-page-preview.png" width="100%" alt="真实运行的 Shadcn Landing Page 中文浅色桌面页面">
+      <br><sub>中文 · 浅色 · 桌面</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/readme/landing-page-desktop-en-dark.png" width="100%" alt="真实运行的 Shadcn Landing Page 英文深色桌面页面">
+      <br><sub>英文 · 深色 · 桌面</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/readme/landing-page-mobile-zh-light.png" width="56%" alt="真实运行的 Shadcn Landing Page 中文浅色手机页面">
+      <br><sub>中文 · 浅色 · 手机</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/readme/landing-page-mobile-en-dark.png" width="56%" alt="真实运行的 Shadcn Landing Page 英文深色手机页面">
+      <br><sub>英文 · 深色 · 手机</sub>
+    </td>
+  </tr>
+</table>
 
-截图来自真实的 `1440 × 1024` 生产构建。通过导航栏中的语言切换器，可以查看同一页面的英文版本。
+四张图片均来自真实生产构建：桌面端为 `1440 × 1024`，手机端为 `390 × 844`。
 
 ## 为什么选择它
 
