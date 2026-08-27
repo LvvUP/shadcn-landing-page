@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "title": "Shadcn Landing Page — Bilingual Next.js Starter",
+    "description": "A customizable bilingual landing page starter built with Next.js, shadcn/ui, Tailwind CSS, and next-intl."
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content"
+  },
+  "navbar": {
+    "brand": "Shadcn",
+    "features": "Features",
+    "featureList": {
+      "showcaseTitle": "Showcase Your Value",
+      "showcaseDesc": "Highlight how your product solves user problems.",
+      "trustTitle": "Build Trust",
+      "trustDesc": "Leverages social proof elements to establish trust and credibility.",
+      "leadsTitle": "Capture Leads",
+      "leadsDesc": "Make your lead capture form visually appealing and strategically."
+    },
+    "testimonials": "Testimonials",
+    "team": "Team",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "viewOnGithub": "View on GitHub",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "menuDescription": "Browse page sections and change language or theme.",
+    "featureImageAlt": "Preview of the landing page section system"
+  },
+  "hero": {
+    "badgeText": "Open-source bilingual starter",
+    "titlePart1": "Launch faster with a",
+    "titleHighlight": "shadcn/ui",
+    "titlePart2": "landing page",
+    "description": "Start with a complete, responsive marketing site featuring server-rendered Chinese and English, persistent themes, and editable sections.",
+    "getStarted": "Explore the sections",
+    "githubRepo": "GitHub repository",
+    "preview": {
+      "alt": "A component canvas preview showing the bilingual landing page starter and its key capabilities",
+      "canvasLabel": "Live component canvas",
+      "ready": "Ready to customize",
+      "eyebrow": "Bilingual by default",
+      "title": "Everything your next launch needs",
+      "description": "Compose a polished product story from accessible, theme-aware shadcn/ui sections.",
+      "primaryAction": "Start building",
+      "secondaryAction": "View sections",
+      "highlights": {
+        "locales": "SSR locales",
+        "themes": "theme modes",
+        "sections": "ready sections"
+      }
+    }
+  },
+  "sponsors": {
+    "title": "A ready-made logo marquee",
+    "description": "Every brand name below is fictional demo content. Replace the list with authorized customer or partner logos."
+  },
+  "benefits": {
+    "sectionTag": "Why this starter",
+    "title": "A faster path from idea to launch",
+    "description": "Start with a coherent marketing-page system, then spend your time refining the message and product experience.",
+    "items": {
+      "brandTrust": {
+        "title": "Present Your Brand",
+        "description": "Tune a consistent visual system through local CSS tokens and editable components."
+      },
+      "moreLeads": {
+        "title": "Capture Intent",
+        "description": "Use clear content blocks and contact patterns as a foundation for your own conversion path."
+      },
+      "higherConversions": {
+        "title": "Guide the Next Step",
+        "description": "Connect every call to action to a real destination instead of leaving dead demo buttons."
+      },
+      "testIdeas": {
+        "title": "Test Your Message",
+        "description": "Reorder and rewrite focused sections without rebuilding the page structure from scratch."
+      }
+    }
+  },
+  "features": {
+    "sectionTag": "Built-in patterns",
+    "title": "A reliable marketing-page baseline",
+    "description": "The starter includes the responsive, content, theme, and interaction details that are easy to overlook during a fast launch."
+  },
+  "featureItems": {
+    "mobileFriendly": {
+      "title": "Mobile Friendly",
+      "description": "Responsive layouts cover common mobile, tablet, and desktop widths and remain easy to tune for your content."
+    },
+    "socialProof": {
+      "title": "Honest Demo Proof",
+      "description": "Sample testimonials and identities are visibly labeled as fictional until you add verified stories."
+    },
+    "targetedContent": {
+      "title": "Localized Content",
+      "description": "Keep Chinese and English content in matching, automatically checked message catalogs."
+    },
+    "strongVisuals": {
+      "title": "Local Visual System",
+      "description": "Use CSS-built previews, local fonts, and components without remote stock-image dependencies."
+    },
+    "clearCTA": {
+      "title": "Working Calls to Action",
+      "description": "Primary buttons point to real page sections, source code, discussions, or the contact demo."
+    },
+    "clearHeadline": {
+      "title": "Semantic Content",
+      "description": "A single page title, structured section headings, skip navigation, and localized control labels."
+    }
+  },
+  "services": {
+    "sectionTag": "Integration slots",
+    "title": "Adapt the starter to your stack",
+    "description": "These cards show common extension points. The template provides the interface, while you choose and configure each service.",
+    "items": {
+      "customDomain": {
+        "title": "Custom Domain Ready",
+        "description": "Deploy the app to your preferred platform, then configure the domain with that provider."
+      },
+      "socialMedia": {
+        "title": "Social Link Slots",
+        "description": "Add only the profiles your project actually maintains and label every destination clearly."
+      },
+      "emailMarketing": {
+        "title": "Email Provider Slot",
+        "description": "Replace the mail-draft demo with your own validated, abuse-protected form workflow."
+      },
+      "seo": {
+        "title": "SEO Foundation",
+        "description": "Start with localized metadata, semantic markup, and a checklist for production URLs and previews."
+      }
+    },
+    "proBadge": "EXAMPLE"
+  },
+  "testimonials": {
+    "sectionTag": "Demo testimonials",
+    "title": "A ready-made social proof section",
+    "disclaimer": "The people and quotes below are fictional placeholders. Replace them with verified customer stories before publishing.",
+    "fiveStarRating": "Five-star sample rating",
+    "carousel": {
+      "region": "Sample testimonials",
+      "previous": "Previous testimonial",
+      "next": "Next testimonial"
+    },
+    "reviews": {
+      "review1": {
+        "name": "John Doe",
+        "role": "Product Manager",
+        "comment": "Wow NextJs + Shadcn is awesome! This template lets me change colors, fonts and images to match my brand identity."
+      },
+      "review2": {
+        "name": "Sophia Collins",
+        "role": "Cybersecurity Analyst",
+        "comment": "This landing page template helped us quickly build a professional product showcase, saving a lot of development time."
+      },
+      "review3": {
+        "name": "Adam Johnson",
+        "role": "Chief Technology Officer",
+        "comment": "High code quality, well-designed components, perfect as a starting template for enterprise projects."
+      },
+      "review4": {
+        "name": "Ethan Parker",
+        "role": "Data Scientist",
+        "comment": "Responsive design perfectly adapts to all devices, smooth user experience, recommended for every frontend developer."
+      },
+      "review5": {
+        "name": "Ava Mitchell",
+        "role": "IT Project Manager",
+        "comment": "Easy to deploy, flexible to customize, our team's go-to template for rapid prototyping."
+      },
+      "review6": {
+        "name": "Isabella Reed",
+        "role": "DevOps Engineer",
+        "comment": "Modern tech stack, clear build process, perfectly integrates into our CI/CD pipeline."
+      }
+    }
+  },
+  "team": {
+    "sectionTag": "Demo team",
+    "title": "A flexible team showcase",
+    "disclaimer": "Names and roles are fictional examples. Replace this content with your own team or remove the section entirely.",
+    "roles": {
+      "frontendDeveloper": "Frontend Developer",
+      "websiteCreator": "Creator of This Website",
+      "uiUxDesigner": "UI/UX Designer",
+      "machineLearningEngineer": "Machine Learning Engineer",
+      "tensorflowTinkerer": "TensorFlow Tinkerer",
+      "cloudNativeDeveloper": "Cloud Native Developer",
+      "kubernetesOrchestrator": "Kubernetes Orchestrator",
+      "devopsEngineer": "DevOps Engineer",
+      "cicdMastermind": "CI/CD Pipeline Specialist",
+      "javascriptEvangelist": "JavaScript Evangelist",
+      "denoChampion": "Deno Champion",
+      "backendDeveloper": "Backend Developer",
+      "fullstackDeveloper": "Full-stack Developer",
+      "uxResearcher": "UX Researcher"
+    }
+  },
+  "community": {
+    "titlePart1": "Build it",
+    "titlePart2": "in the open",
+    "description": "Ask implementation questions, propose improvements, and share what you create with the template in GitHub Discussions.",
+    "joinButton": "Open discussions"
+  },
+  "pricing": {
+    "sectionTag": "Pricing demo",
+    "title": "Pricing cards ready for your offer",
+    "description": "Present a clear free-to-enter plan structure and adapt every detail to your product.",
+    "disclaimer": "All plans, prices, features, and calls to action are fictional demo content.",
+    "perMonth": "/month",
+    "plans": {
+      "free": {
+        "title": "Free",
+        "description": "Perfect for individuals and small projects to get started.",
+        "buttonText": "View source",
+        "benefits": ["1 team member", "1 GB storage", "Up to 2 pages", "Community support", "AI assistance"]
+      },
+      "premium": {
+        "title": "Premium",
+        "description": "Professional plan for growing teams.",
+        "buttonText": "Customize this plan",
+        "benefits": ["4 team members", "8 GB storage", "Up to 6 pages", "Priority support", "AI assistance"]
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Custom solution for large organizations.",
+        "buttonText": "Open contact demo",
+        "benefits": ["10 team members", "20 GB storage", "Up to 10 pages", "Phone & email support", "AI assistance"]
+      }
+    }
+  },
+  "contact": {
+    "sectionTag": "Contact",
+    "title": "A clear contact section",
+    "description": "Show essential contact channels beside a structured message form, then connect the workflow your product actually uses.",
+    "disclaimer": "Demo contact details only. The form opens a draft in your local email app and does not send data to a server.",
+    "findUs": "Find us",
+    "address": "100 Example Street, Demo City",
+    "callUs": "Call us",
+    "phone": "+1 (555) 010-2026",
+    "mailUs": "Mail Us",
+    "email": "contact@example.com",
+    "visitUs": "Visit us",
+    "weekdays": "Monday - Friday",
+    "hours": "8AM - 4PM",
+    "form": {
+      "title": "Compose a message",
+      "description": "Complete the fields below to open a pre-filled email draft.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "selectSubject": "Select a subject",
+      "webDev": "Web Development",
+      "mobileDev": "Mobile Development",
+      "figmaDesign": "Figma Design",
+      "restApi": "REST API",
+      "fullstack": "FullStack Project",
+      "submit": "Open email draft",
+      "mailBody": "Hello, I am {firstName} {lastName}. My email is {email}.\n\n{message}",
+      "validation": {
+        "minLength": "Enter at least 2 characters",
+        "maxLength": "Enter no more than 255 characters",
+        "invalidEmail": "Enter a valid email address"
+      }
+    }
+  },
+  "faq": {
+    "sectionTag": "FAQS",
+    "title": "Common Questions",
+    "items": {
+      "item1": {
+        "question": "Is this template free?",
+        "answer": "Yes. It is a free NextJS Shadcn template."
+      },
+      "item2": {
+        "question": "Can I use this template for commercial projects?",
+        "answer": "Absolutely. This template is released under the MIT license, so you can freely use it for both personal and commercial projects at no extra cost."
+      },
+      "item3": {
+        "question": "How do I customize the colors and styles?",
+        "answer": "You can customize colors, fonts, and other styles through the Tailwind CSS v4 theme tokens and CSS variables in app/globals.css."
+      },
+      "item4": {
+        "question": "Which browsers are supported?",
+        "answer": "The starter targets current evergreen browsers. Test the exact browser and device matrix your audience requires before release."
+      },
+      "item5": {
+        "question": "How do I get technical support?",
+        "answer": "Report reproducible bugs through GitHub Issues, or start a question in GitHub Discussions."
+      }
+    }
+  },
+  "footer": {
+    "brand": "Shadcn",
+    "tagline": "A bilingual, theme-ready landing page starter for your next launch.",
+    "project": "Project",
+    "resources": "Resources",
+    "contribute": "Contribute",
+    "legal": "Legal",
+    "github": "GitHub",
+    "issues": "Issues",
+    "discussions": "Discussions",
+    "nextjs": "Next.js",
+    "shadcn": "shadcn/ui",
+    "nextIntl": "next-intl",
+    "readme": "README",
+    "contributing": "Contributing guide",
+    "security": "Security policy",
+    "license": "MIT License",
+    "attribution": "Attribution notice",
+    "copyright": "© {year} LvvUP. Open source under the MIT License."
+  },
+  "theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "toggleTheme": "Choose theme"
+  },
+  "languageSwitcher": {
+    "label": "Switch Language",
+    "zhCN": "简体中文",
+    "enUS": "English"
+  }
+}

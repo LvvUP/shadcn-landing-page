@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "title": "Shadcn Landing Page — 双语 Next.js 模板",
+    "description": "基于 Next.js、shadcn/ui、Tailwind CSS 和 next-intl 的可定制双语 Landing Page 模板。"
+  },
+  "accessibility": {
+    "skipToContent": "跳到主要内容"
+  },
+  "navbar": {
+    "brand": "Shadcn",
+    "features": "功能特点",
+    "featureList": {
+      "showcaseTitle": "展示您的价值",
+      "showcaseDesc": "突出您的产品如何解决用户问题。",
+      "trustTitle": "建立信任",
+      "trustDesc": "利用社会证明元素建立信任和可信度。",
+      "leadsTitle": "获取潜在客户",
+      "leadsDesc": "让您的线索收集表单既美观又具战略性。"
+    },
+    "testimonials": "客户评价",
+    "team": "团队",
+    "contact": "联系我们",
+    "faq": "常见问题",
+    "viewOnGithub": "在 GitHub 上查看",
+    "openMenu": "打开导航菜单",
+    "closeMenu": "关闭导航菜单",
+    "menuDescription": "浏览页面区块，并切换语言或主题。",
+    "featureImageAlt": "Landing Page 区块系统预览"
+  },
+  "hero": {
+    "badgeText": "开源双语起始模板",
+    "titlePart1": "更快发布你的",
+    "titleHighlight": "shadcn/ui",
+    "titlePart2": "Landing Page",
+    "description": "从完整的响应式营销网站起步，内置中英文服务端渲染、可持久化主题和可自由编辑的页面区块。",
+    "getStarted": "浏览页面区块",
+    "githubRepo": "GitHub 仓库",
+    "preview": {
+      "alt": "展示双语 Landing Page 模板及其核心能力的组件画布预览",
+      "canvasLabel": "实时组件画布",
+      "ready": "随时可定制",
+      "eyebrow": "默认支持双语",
+      "title": "一次准备好产品发布所需的页面",
+      "description": "使用可访问、支持主题的 shadcn/ui 区块，组合出清晰完整的产品故事。",
+      "primaryAction": "开始搭建",
+      "secondaryAction": "查看区块",
+      "highlights": {
+        "locales": "SSR 语言",
+        "themes": "主题模式",
+        "sections": "现成区块"
+      }
+    }
+  },
+  "sponsors": {
+    "title": "开箱即用的品牌 Logo 滚动区",
+    "description": "下方所有品牌名称均为虚构演示内容；请替换为已获得授权的客户或合作伙伴 Logo。"
+  },
+  "benefits": {
+    "sectionTag": "为什么选择这个模板",
+    "title": "从想法到发布，少走一些弯路",
+    "description": "从结构完整的营销页面系统开始，把时间留给产品表达和真实体验的打磨。",
+    "items": {
+      "brandTrust": {
+        "title": "呈现你的品牌",
+        "description": "通过本地 CSS 令牌和可编辑组件，调整一致的品牌视觉系统。"
+      },
+      "moreLeads": {
+        "title": "承接用户意向",
+        "description": "用清晰的内容区块和联系表单，为你的真实转化路径搭好基础。"
+      },
+      "higherConversions": {
+        "title": "引导下一步行动",
+        "description": "让每个行动按钮都连接到真实区块、源码或交流入口，而不是保留无效按钮。"
+      },
+      "testIdeas": {
+        "title": "验证产品表达",
+        "description": "无需重建页面结构，即可调整区块顺序并迭代中英文文案。"
+      }
+    }
+  },
+  "features": {
+    "sectionTag": "内置模式",
+    "title": "可靠的营销页面起点",
+    "description": "模板补齐了快速发布时容易遗漏的响应式、内容、主题和交互细节。"
+  },
+  "featureItems": {
+    "mobileFriendly": {
+      "title": "移动端友好",
+      "description": "响应式布局覆盖常见手机、平板和桌面宽度，并可根据你的实际内容继续调整。"
+    },
+    "socialProof": {
+      "title": "诚实的评价示例",
+      "description": "在加入经过验证的客户案例前，示例评价和身份都会明确标注为虚构内容。"
+    },
+    "targetedContent": {
+      "title": "本地化内容",
+      "description": "在结构一致、自动检查的语言资源中维护中文和英文内容。"
+    },
+    "strongVisuals": {
+      "title": "本地视觉系统",
+      "description": "使用 CSS 组件预览、本地字体和本地组件，不依赖远程图库素材。"
+    },
+    "clearCTA": {
+      "title": "可用的行动按钮",
+      "description": "主要按钮连接到真实页面区块、源码、交流入口或联系示例。"
+    },
+    "clearHeadline": {
+      "title": "语义化内容",
+      "description": "保持唯一页面标题、结构化区块标题、主内容跳转和本地化控件标签。"
+    }
+  },
+  "services": {
+    "sectionTag": "集成位置",
+    "title": "按你的技术栈扩展模板",
+    "description": "这些卡片展示常见扩展位置。模板提供界面，你负责选择并配置具体服务。",
+    "items": {
+      "customDomain": {
+        "title": "支持自定义域名部署",
+        "description": "将应用部署到你选择的平台，再通过该服务商配置正式域名。"
+      },
+      "socialMedia": {
+        "title": "社交链接位置",
+        "description": "只添加项目真实维护的账号，并为每个跳转提供清晰标签。"
+      },
+      "emailMarketing": {
+        "title": "邮件服务位置",
+        "description": "用你自己的验证、滥用防护和隐私流程替换邮件草稿示例。"
+      },
+      "seo": {
+        "title": "SEO 基础",
+        "description": "从本地化 Metadata、语义化标记以及正式网址和预览图检查清单起步。"
+      }
+    },
+    "proBadge": "示例"
+  },
+  "testimonials": {
+    "sectionTag": "评价示例",
+    "title": "开箱即用的社会证明区块",
+    "disclaimer": "以下人物和评价均为虚构占位内容；正式发布前，请替换为经过验证的真实客户案例。",
+    "fiveStarRating": "五星示例评分",
+    "carousel": {
+      "region": "客户评价示例",
+      "previous": "上一条评价",
+      "next": "下一条评价"
+    },
+    "reviews": {
+      "review1": {
+        "name": "张明",
+        "role": "产品经理",
+        "comment": "Next.js + Shadcn 的组合太棒了！这个模板让我可以轻松更改颜色、字体和图片来匹配我的品牌形象。"
+      },
+      "review2": {
+        "name": "李婷",
+        "role": "网络安全分析师",
+        "comment": "这个落地页模板帮助我们快速搭建了专业的产品展示页面，节省了大量开发时间。"
+      },
+      "review3": {
+        "name": "王强",
+        "role": "首席技术官",
+        "comment": "代码质量高，组件化设计合理，非常适合作为企业级项目的起始模板。"
+      },
+      "review4": {
+        "name": "赵雪",
+        "role": "数据科学家",
+        "comment": "响应式设计完美适配各种设备，用户体验非常流畅，推荐给每一个前端开发者。"
+      },
+      "review5": {
+        "name": "陈伟",
+        "role": "IT 项目经理",
+        "comment": "部署简单、定制灵活，是我们团队快速原型开发的首选模板。"
+      },
+      "review6": {
+        "name": "刘芳",
+        "role": "DevOps 工程师",
+        "comment": "技术栈现代，构建流程清晰，完美融入我们的 CI/CD 流水线。"
+      }
+    }
+  },
+  "team": {
+    "sectionTag": "团队示例",
+    "title": "灵活可定制的团队展示",
+    "disclaimer": "姓名和职位均为虚构示例；请替换为你的真实团队信息，或直接移除这个区块。",
+    "roles": {
+      "frontendDeveloper": "前端开发工程师",
+      "websiteCreator": "网站创建者",
+      "uiUxDesigner": "UI/UX 设计师",
+      "machineLearningEngineer": "机器学习工程师",
+      "tensorflowTinkerer": "TensorFlow 技术爱好者",
+      "cloudNativeDeveloper": "云原生开发工程师",
+      "kubernetesOrchestrator": "Kubernetes 编排专家",
+      "devopsEngineer": "DevOps 工程师",
+      "cicdMastermind": "CI/CD 流水线专家",
+      "javascriptEvangelist": "JavaScript 技术布道者",
+      "denoChampion": "Deno 技术倡导者",
+      "backendDeveloper": "后端开发工程师",
+      "fullstackDeveloper": "全栈开发工程师",
+      "uxResearcher": "用户体验研究员"
+    }
+  },
+  "community": {
+    "titlePart1": "一起在",
+    "titlePart2": "开源社区交流",
+    "description": "在 GitHub Discussions 中提出实现问题、建议改进方向，并分享你基于这个模板完成的作品。",
+    "joinButton": "打开 Discussions"
+  },
+  "pricing": {
+    "sectionTag": "定价示例",
+    "title": "可直接替换的定价卡片",
+    "description": "用清晰的免费到进阶方案展示产品价值，并按你的业务自由调整每一项内容。",
+    "disclaimer": "所有方案、价格、权益和行动按钮均为虚构演示内容。",
+    "perMonth": "/月",
+    "plans": {
+      "free": {
+        "title": "免费版",
+        "description": "适合个人用户和小型项目的入门方案。",
+        "buttonText": "查看源码",
+        "benefits": ["1 位团队成员", "1 GB 存储空间", "最多 2 个页面", "社区支持", "AI 辅助"]
+      },
+      "premium": {
+        "title": "高级版",
+        "description": "适合成长型团队的专业方案。",
+        "buttonText": "定制这个方案",
+        "benefits": ["4 位团队成员", "8 GB 存储空间", "最多 6 个页面", "优先支持", "AI 辅助"]
+      },
+      "enterprise": {
+        "title": "企业版",
+        "description": "适合大型企业的定制化方案。",
+        "buttonText": "打开联系示例",
+        "benefits": ["10 位团队成员", "20 GB 存储空间", "最多 10 个页面", "电话和邮件支持", "AI 辅助"]
+      }
+    }
+  },
+  "contact": {
+    "sectionTag": "联系",
+    "title": "清晰完整的联系区块",
+    "description": "在结构化消息表单旁展示必要联系渠道，再接入你的产品实际使用的处理流程。",
+    "disclaimer": "这里展示的联系信息仅为示例。表单只会在你的本地邮件应用中打开草稿，不会把数据发送到服务器。",
+    "findUs": "找到我们",
+    "address": "示例市创新区 88 号",
+    "callUs": "致电我们",
+    "phone": "+86 10 0000 0000",
+    "mailUs": "发送邮件",
+    "email": "contact@example.com",
+    "visitUs": "拜访我们",
+    "weekdays": "周一至周五",
+    "hours": "上午 9:00 - 下午 6:00",
+    "form": {
+      "title": "撰写邮件",
+      "description": "填写以下字段后，将打开一封预先填好的邮件草稿。",
+      "firstName": "名",
+      "lastName": "姓",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "留言",
+      "messagePlaceholder": "请输入您的留言...",
+      "selectSubject": "请选择主题",
+      "webDev": "网站开发",
+      "mobileDev": "移动端开发",
+      "figmaDesign": "Figma 设计",
+      "restApi": "REST API",
+      "fullstack": "全栈项目",
+      "submit": "打开邮件草稿",
+      "mailBody": "您好，我是 {firstName} {lastName}，我的邮箱是 {email}。\n\n{message}",
+      "validation": {
+        "minLength": "至少输入 2 个字符",
+        "maxLength": "最多输入 255 个字符",
+        "invalidEmail": "请输入有效的邮箱地址"
+      }
+    }
+  },
+  "faq": {
+    "sectionTag": "常见问题",
+    "title": "常见问题解答",
+    "items": {
+      "item1": {
+        "question": "这个模板是免费的吗？",
+        "answer": "是的，这是一个免费的 Next.js Shadcn 模板。"
+      },
+      "item2": {
+        "question": "我可以将此模板用于商业项目吗？",
+        "answer": "当然可以。本模板基于 MIT 许可证发布，您可以自由用于个人和商业项目，无需额外付费。"
+      },
+      "item3": {
+        "question": "如何自定义模板的颜色和样式？",
+        "answer": "您可以通过 app/globals.css 中的 Tailwind CSS v4 主题令牌和 CSS 变量来自定义颜色、字体及其他样式。"
+      },
+      "item4": {
+        "question": "模板支持哪些浏览器？",
+        "answer": "模板面向当前持续更新的主流浏览器。正式发布前，请按照目标用户所需的浏览器与设备范围进行验证。"
+      },
+      "item5": {
+        "question": "如何获取技术支持？",
+        "answer": "可通过 GitHub Issues 提交可复现的问题，或在 GitHub Discussions 中发起讨论。"
+      }
+    }
+  },
+  "footer": {
+    "brand": "Shadcn",
+    "tagline": "为下一次产品发布准备的双语、多主题 Landing Page 起始模板。",
+    "project": "项目",
+    "resources": "资源",
+    "contribute": "参与贡献",
+    "legal": "许可与声明",
+    "github": "GitHub",
+    "issues": "问题反馈",
+    "discussions": "交流讨论",
+    "nextjs": "Next.js",
+    "shadcn": "shadcn/ui",
+    "nextIntl": "next-intl",
+    "readme": "README",
+    "contributing": "贡献指南",
+    "security": "安全政策",
+    "license": "MIT 许可证",
+    "attribution": "归属声明",
+    "copyright": "© {year} LvvUP。基于 MIT 许可证开源。"
+  },
+  "theme": {
+    "dark": "深色模式",
+    "light": "浅色模式",
+    "system": "跟随系统",
+    "toggleTheme": "选择主题"
+  },
+  "languageSwitcher": {
+    "label": "切换语言",
+    "zhCN": "简体中文",
+    "enUS": "English"
+  }
+}

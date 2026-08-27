@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Shadcn Landing Page project preview</title>
+  <desc id="desc">A dark component canvas with an orange-accented bilingual landing page and feature cards.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0b"/>
+      <stop offset="1" stop-color="#17110e"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6a2a"/>
+      <stop offset="1" stop-color="#ff9b52"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#ff6a2a" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ff6a2a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".04"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="640" rx="28" fill="url(#grid)"/>
+  <circle cx="1050" cy="80" r="300" fill="url(#glow)"/>
+  <circle cx="170" cy="610" r="240" fill="url(#glow)" opacity=".45"/>
+
+  <g transform="translate(70 54)">
+    <rect width="34" height="34" rx="9" fill="url(#orange)"/>
+    <path d="M10 11l7 7 7-7M10 18l7 7 7-7" fill="none" stroke="#1b0d07" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="24" fill="#fafafa" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing=".8">SHADCN LANDING PAGE</text>
+    <text x="870" y="23" fill="#a3a3a3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">NEXT.JS 16  ·  REACT 19  ·  TAILWIND 4</text>
+  </g>
+
+  <g transform="translate(70 118)" filter="url(#shadow)">
+    <rect width="1140" height="460" rx="22" fill="#111113" stroke="#ffffff" stroke-opacity=".12"/>
+    <path d="M0 62H1140" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="28" cy="31" r="6" fill="#ff6a2a"/>
+    <circle cx="49" cy="31" r="6" fill="#ff9b52" fill-opacity=".65"/>
+    <circle cx="70" cy="31" r="6" fill="#737373" fill-opacity=".5"/>
+    <text x="98" y="37" fill="#d4d4d4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">Component canvas</text>
+    <rect x="958" y="17" width="72" height="28" rx="14" fill="#222225"/>
+    <text x="974" y="36" fill="#e5e5e5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">中文</text>
+    <rect x="1038" y="17" width="84" height="28" rx="14" fill="#2a1710" stroke="#ff6a2a" stroke-opacity=".45"/>
+    <text x="1055" y="36" fill="#ff9b52" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">ENGLISH</text>
+
+    <g transform="translate(34 94)">
+      <rect width="700" height="330" rx="18" fill="#171719" stroke="#ffffff" stroke-opacity=".1"/>
+      <rect x="38" y="42" width="150" height="30" rx="15" fill="#2a1710" stroke="#ff6a2a" stroke-opacity=".42"/>
+      <circle cx="56" cy="57" r="4" fill="#ff6a2a"/>
+      <text x="69" y="62" fill="#ff9b52" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600">BILINGUAL BY DEFAULT</text>
+      <text x="38" y="132" fill="#fafafa" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="760">Ship a clearer story.</text>
+      <text x="38" y="170" fill="#a3a3a3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Accessible sections, persistent themes,</text>
+      <text x="38" y="197" fill="#a3a3a3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">and server-rendered Chinese &amp; English.</text>
+      <rect x="38" y="232" width="144" height="44" rx="9" fill="url(#orange)"/>
+      <text x="65" y="260" fill="#241008" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="700">START BUILDING</text>
+      <rect x="194" y="232" width="132" height="44" rx="9" fill="#111113" stroke="#ffffff" stroke-opacity=".18"/>
+      <text x="220" y="260" fill="#e5e5e5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">VIEW SECTIONS</text>
+      <g transform="translate(538 34)">
+        <rect width="124" height="124" rx="62" fill="#21140f" stroke="#ff6a2a" stroke-opacity=".28"/>
+        <rect x="22" y="26" width="80" height="72" rx="12" fill="#2a1710" stroke="#ff6a2a" stroke-opacity=".45"/>
+        <path d="M42 49h40M42 62h28M42 75h34" stroke="#ff9b52" stroke-width="5" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <g transform="translate(758 94)" font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+      <rect width="348" height="96" rx="16" fill="#171719" stroke="#ffffff" stroke-opacity=".1"/>
+      <rect x="20" y="20" width="56" height="56" rx="13" fill="#2a1710"/>
+      <text x="39" y="56" fill="#ff8a47" font-size="22">文</text>
+      <text x="96" y="44" fill="#fafafa" font-size="26" font-weight="750">2</text>
+      <text x="96" y="68" fill="#a3a3a3" font-size="13">SSR locales</text>
+      <circle cx="319" cy="48" r="11" fill="#2a1710"/>
+      <path d="M314 48l4 4 7-9" fill="none" stroke="#ff8a47" stroke-width="2" stroke-linecap="round"/>
+
+      <rect y="112" width="348" height="96" rx="16" fill="#171719" stroke="#ffffff" stroke-opacity=".1"/>
+      <rect x="20" y="132" width="56" height="56" rx="13" fill="#2a1710"/>
+      <path d="M46 145a16 16 0 1017 25 17 17 0 01-17-25z" fill="none" stroke="#ff8a47" stroke-width="3"/>
+      <text x="96" y="156" fill="#fafafa" font-size="26" font-weight="750">3</text>
+      <text x="96" y="180" fill="#a3a3a3" font-size="13">theme preferences</text>
+      <circle cx="319" cy="160" r="11" fill="#2a1710"/>
+      <path d="M314 160l4 4 7-9" fill="none" stroke="#ff8a47" stroke-width="2" stroke-linecap="round"/>
+
+      <rect y="224" width="348" height="106" rx="16" fill="#171719" stroke="#ffffff" stroke-opacity=".1"/>
+      <rect x="20" y="246" width="56" height="56" rx="13" fill="#2a1710"/>
+      <rect x="36" y="260" width="24" height="28" rx="3" fill="none" stroke="#ff8a47" stroke-width="3"/>
+      <path d="M42 268h12M42 275h12M42 282h8" stroke="#ff8a47" stroke-width="2"/>
+      <text x="96" y="271" fill="#fafafa" font-size="26" font-weight="750">12</text>
+      <text x="96" y="295" fill="#a3a3a3" font-size="13">editable sections</text>
+      <circle cx="319" cy="277" r="11" fill="#2a1710"/>
+      <path d="M314 277l4 4 7-9" fill="none" stroke="#ff8a47" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
